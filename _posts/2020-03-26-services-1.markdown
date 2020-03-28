@@ -8,4 +8,4 @@ categories: [x, y]
 tags: [x, y]
 published: true
 ---
-  As businessman or government official, you don't have time to worry about your security and safety.  Here at Vigeo, we take care of your security by making it our number one priority.  We understand you have an image to uphold so we're here to be the security team you don't even realize has your six.  
+  As a businessman or government official, you don't have time to worry about your security and safety.  Here at Vigeo, we take care of your security by making it our number one priority.  We understand you have an image to uphold so we're here to be the security team you don't even realize has your six.  

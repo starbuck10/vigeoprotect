@@ -1,0 +1,11 @@
+---
+layout: default
+img: wood.jpg
+category: Services
+title: Vigeo<br>Custom
+description: |
+categories: [x, y]
+tags: [x, y]
+published: true
+---
+Vigeo Custom is the creative product arm of Vigeo; from millwork to custom pieces for commercial and residential spaces, our business looks to capture the most anticipated designs and takes special orders for fulfillment.  Visit us <a href="https://vigeocustom.com">here</a>.

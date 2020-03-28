@@ -1,0 +1,35 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://vigeocorp.com
+title: Vigeo Corporation
+email: sales@vigeoconstruction.com
+author: Joshua Coffie
+description:
+  Vigeo Corporation is the parent and holdings company for the Vigeo enterprise.
+copyright: 'Copyright &copy; 2020 Vigeo Corporation. All Rights Reserved.'
+credits:
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url:
+  - title: github
+    url:
+  - title: linkedin
+    url:
+
+# Google Analytics
+google_analytics: UA-162053862-1

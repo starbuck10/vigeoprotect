@@ -1,0 +1,11 @@
+---
+layout: default
+img: consult.jpg
+category: Services
+title: Vigeo<br>Consulting
+description: |
+categories: [x, y]
+tags: [x, y]
+published: true
+---
+  Vigeo Consulting specializes in answering the complex business and technology problems your organization struggles to solve. Our philosophy: put smart people in a room that care about your people and your business and create a customized solution that fits for your needs.  Visit us <a href="https://vigeoconsult.com">here</a>.

@@ -1,0 +1,11 @@
+---
+layout: default
+img: construction.jpg
+category: Services
+title: Vigeo Construction<br>& Consulting
+description: |
+categories: [x, y]
+tags: [x, y]
+published: true
+---
+  Vigeo Construction and Consulting is the engineering, design, and construction arm of Vigeo.  The business specializes in residential and light commercial construction and remodeling with an emphasis on energy and wellness standards.  Visit us <a href="https://vigeoconstruction.com">here</a>.

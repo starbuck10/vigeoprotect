@@ -2,7 +2,7 @@
 layout: default
 img: consult.jpg
 category: Services
-title: Vigeo<br>Consulting
+title: Asset<br>Protection
 description: |
 categories: [x, y]
 tags: [x, y]

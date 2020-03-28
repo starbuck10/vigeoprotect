@@ -2,7 +2,7 @@
 layout: default
 img: cow.jpg
 category: Services
-title: Vigeo<br>Ranch
+title: Defense<br>Training
 description: |
 categories: [x, y]
 tags: [x, y]

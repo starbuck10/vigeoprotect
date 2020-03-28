@@ -2,7 +2,7 @@
 layout: default
 img: wood.jpg
 category: Services
-title: Vigeo<br>Custom
+title: Logistics<br>& Transportation
 description: |
 categories: [x, y]
 tags: [x, y]

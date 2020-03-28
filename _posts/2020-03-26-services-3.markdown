@@ -1,6 +1,6 @@
 ---
 layout: default
-img: wood.jpg
+img: log.jpg
 category: Services
 title: Logistics<br>& Transportation
 description: |
@@ -8,4 +8,4 @@ categories: [x, y]
 tags: [x, y]
 published: true
 ---
-Vigeo Custom is the creative product arm of Vigeo; from millwork to custom pieces for commercial and residential spaces, our business looks to capture the most anticipated designs and takes special orders for fulfillment.  Visit us <a href="https://vigeocustom.com">here</a>.
+Shipping and managing high-profile and valuable assets in an increasingly dangerous world can leave the best of us ill at ease.  At Vigeo, our experience in procurement and supply chain, coupled with countless years in security, gives us the ability to provide asset protection with a business perspective.

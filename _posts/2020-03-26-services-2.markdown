@@ -1,6 +1,6 @@
 ---
 layout: default
-img: consult.jpg
+img: safe.jpg
 category: Services
 title: Asset<br>Protection
 description: |
@@ -8,4 +8,4 @@ categories: [x, y]
 tags: [x, y]
 published: true
 ---
-  Vigeo Consulting specializes in answering the complex business and technology problems your organization struggles to solve. Our philosophy: put smart people in a room that care about your people and your business and create a customized solution that fits for your needs.  Visit us <a href="https://vigeoconsult.com">here</a>.
+You've spent a lifetime building a legacy for your business and family. .  We treat your property as our own, leveraging cutting-edge technology, in-depth planning, and response teams to give you the protection you need.

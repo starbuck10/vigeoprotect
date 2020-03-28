@@ -1,6 +1,6 @@
 ---
 layout: default
-img: cow.jpg
+img: train.jpg
 category: Services
 title: Defense<br>Training
 description: |
@@ -8,4 +8,4 @@ categories: [x, y]
 tags: [x, y]
 published: true
 ---
-Ranching and farming are in our blood.  Hard-work, determination, and integrity guide our business to produce only the highest quality meat for our families and buyers.  Visit us <a href="https://vigeoranch.com">here</a>.
+When it comes to security, our clients must be as aware of their surroundings as we are.  That's why we provide world-class training to give our clients the best security experience while they're in our hands.
